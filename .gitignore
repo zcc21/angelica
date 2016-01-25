@@ -3,9 +3,12 @@
 *.class
 
 # Package Files #
+*.project
 *.jar
 *.war
 *.ear
+
+/.settings/
 
 *.bak
 *.class
