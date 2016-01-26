@@ -36,7 +36,8 @@
             <uriEncoding>UTF-8</uriEncoding>
             <finalName>angelica</finalName>
             <url>http://localhost:8080/manager/text</url>
-            <server>tomcat7Server</server>           
+            <server>tomcat7Server</server>
+                       
         </configuration>
       </plugin>
     </plugins>
