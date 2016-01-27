@@ -47,4 +47,13 @@
     </plugins>
     <finalName>angelica</finalName>
   </build>
+
+  <distributionManagement>
+    <snapshotRepository>
+      <id>nexus-snapshot</id>
+      <name>Nexus-snapshot</name>
+      <url>http://localhost:8081/nexus/content/repositories/snapshots/</url>
+
+    </snapshotRepository>
+  </distributionManagement>
 </project>
